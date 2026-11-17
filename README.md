@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**burakunal516/burakunal516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Burak 👋
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student at Necmettin Erbakan University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Interested in Backend Development, Distributed Systems and AI
+
+### About Me
+
+I'm a Computer Engineering student focused on improving my software development skills through real-world projects.
+
+Currently exploring Java, Spring Boot, Python and database technologies.
+
+### Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=dotnet&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Currently Learning
+
+- Java & Spring Boot
+- REST API Development
+- Database Design
+- Backend Architecture
